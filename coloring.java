@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 public class algorithm_practice {
@@ -85,4 +84,3 @@ public class algorithm_practice {
         }
     }
 }
-```
